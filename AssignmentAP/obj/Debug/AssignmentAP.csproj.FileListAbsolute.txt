@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\AssignmentAP\AssignmentAP\bin\Debug\AssignmentAP.exe
+C:\Users\User\RiderProjects\AssignmentAP\AssignmentAP\bin\Debug\AssignmentAP.pdb
+C:\Users\User\RiderProjects\AssignmentAP\AssignmentAP\obj\Debug\AssignmentAP.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\AssignmentAP\AssignmentAP\obj\Debug\AssignmentAP.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\AssignmentAP\AssignmentAP\obj\Debug\AssignmentAP.exe
+C:\Users\User\RiderProjects\AssignmentAP\AssignmentAP\obj\Debug\AssignmentAP.pdb
